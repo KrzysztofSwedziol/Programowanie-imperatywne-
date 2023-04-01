@@ -1,0 +1,3 @@
+C:/Users/feXi/OneDrive/Pulpit/Stos, kolejka, buffer/cmake-build-debug/CMakeFiles/Stos__kolejka__buffer.dir
+C:/Users/feXi/OneDrive/Pulpit/Stos, kolejka, buffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/feXi/OneDrive/Pulpit/Stos, kolejka, buffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
