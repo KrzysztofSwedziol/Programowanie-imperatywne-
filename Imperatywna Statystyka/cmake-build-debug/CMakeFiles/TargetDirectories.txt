@@ -1,0 +1,3 @@
+C:/Users/feXi/OneDrive/Pulpit/Programowanie imperatywne/Imperatywna Statystyka/cmake-build-debug/CMakeFiles/Imperatywna_Statystyka_.dir
+C:/Users/feXi/OneDrive/Pulpit/Programowanie imperatywne/Imperatywna Statystyka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/feXi/OneDrive/Pulpit/Programowanie imperatywne/Imperatywna Statystyka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
