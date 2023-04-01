@@ -1,0 +1,3 @@
+C:/Users/feXi/OneDrive/Pulpit/Imperatywna Wojna/cmake-build-debug/CMakeFiles/Imperatywna_Wojna.dir
+C:/Users/feXi/OneDrive/Pulpit/Imperatywna Wojna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/feXi/OneDrive/Pulpit/Imperatywna Wojna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
