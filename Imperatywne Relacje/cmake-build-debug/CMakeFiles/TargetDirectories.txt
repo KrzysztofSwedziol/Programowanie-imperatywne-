@@ -1,0 +1,3 @@
+C:/Users/feXi/CLionProjects/Imperatywne Relacje/cmake-build-debug/CMakeFiles/Imperatywne_Relacje_.dir
+C:/Users/feXi/CLionProjects/Imperatywne Relacje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/feXi/CLionProjects/Imperatywne Relacje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
